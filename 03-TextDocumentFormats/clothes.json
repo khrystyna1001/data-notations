@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Prada",
+        "founded": 1913,
+        "headquarters": "Milan Bergamo, Italy",
+        "employees": 14876,
+        "products": [
+            "Pouches",
+            "Sunglasses",
+            "Hair accessories"
+        ]
+    },
+    {
+        "name": "Versace",
+        "founded": 1978,
+        "headquarters": "Milan, Italy",
+        "employees": 1500,
+        "products": [
+            "Bags",
+            "Dresses",
+            "Suits"
+        ]
     }
 ]

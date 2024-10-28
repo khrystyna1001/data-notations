@@ -1,0 +1,10 @@
+{
+    "name": "IC 56",
+    "price": 60,
+    "currency": "zl",
+    "time": "07:22-09:50",
+    "start point": "PRZEMYSL GLOWNY",
+    "destination": "KRAKOW GLOWNY",
+    "wagon": 269,
+    "seat": 92
+}
