@@ -7,12 +7,50 @@ h2 {
     background-color: blanchedalmond;
 }
 
+section {
+    border: 1px solid black;
+}
+
+section p {
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+
+#grand-canyon {
+    color: darkgreen;
+}
+
+#great-barrier-reef {
+    color: blue;
+}
+
+#mount-everest {
+    color: gray;
+}
+
 th { 
     padding: 5px;
 }
 
 td {
     padding: 15px;
+}
+
+a {
+    text-decoration-line: none;
+    color: red;
+}
+
+input[type="submit"] {
+    background-color: bisque;
+    color: brown;
+    border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+    transition: 1s;
+    background-color: brown;
+    color: bisque;
 }
 
 input, select, textarea {
